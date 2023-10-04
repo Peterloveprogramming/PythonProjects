@@ -6,7 +6,11 @@
 </p>
 <p>See Live https://replit.com/@PeterYan3/Rock-Paper-Scissors?v=1 
 </p>
-<br>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 <hr>
 
 <h2>Password Generator  </h2>
