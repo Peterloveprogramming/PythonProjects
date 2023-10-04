@@ -33,3 +33,12 @@ See Live - https://replit.com/@PeterYan3/Ceaser-Cypher?v=1
 </p>
 
 <h1></h1>
+<h2>Project - Black Jack </h2>
+
+<p id="description">In blackjack, players aim to beat the dealer by getting a hand value as close to 21 as possible without exceeding it. Aces can be worth 1 or 11 points, and face cards are worth 10 points.
+This Python game aims to imitates the blackjack where the computer is the dealer and the player needs to get as close to 21  as possible.
+</p>
+See Live - https://replit.com/@PeterYan3/Black-Jack?v=1
+</p>
+
+<h1></h1>
