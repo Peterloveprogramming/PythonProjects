@@ -42,3 +42,12 @@ See Live - https://replit.com/@PeterYan3/Black-Jack?v=1
 </p>
 
 <h1></h1>
+
+<h2>Project - Higher Lower  </h2>
+
+<p id="description">Try to guess which individual has more Instagram followers. This game draws inspiration from the original "Higher or Lower" game. You can play the original version at this link: https://www.higherlowergame.com/
+</p>
+See Live - https://replit.com/@PeterYan3/Higher-Lower-Game?v=1
+</p>
+
+<h1></h1>
