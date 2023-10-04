@@ -25,3 +25,11 @@ See Live - https://replit.com/@PeterYan3/Hangman?v=1
 </p>
 
 <h1></h1>
+<h2>Project - Caesar Cipher </h2>
+
+<p id="description">The Caesar cipher is one of the simplest and earliest known encryption techniques. It involves shifting each letter in the plaintext a fixed number of positions down or up the alphabet. This technique is named after Julius Caesar, who is believed to have used it for secure communication in ancient Rome.
+</p>
+See Live - https://replit.com/@PeterYan3/Ceaser-Cypher?v=1
+</p>
+
+<h1></h1>
