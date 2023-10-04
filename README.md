@@ -16,4 +16,12 @@ See Live - https://replit.com/@PeterYan3/Password-Generator?v=1
 </p>
 
 <h1></h1>
+<h2>Project - Hangman   </h2>
 
+<p id="description">In this game, computer randomly generates a word and the  player need to guess all the letters one at a time. If the player successfully guesses the word before a hangman's figure is completely drawn, they win; otherwise, the computer wins.
+
+</p>
+See Live - https://replit.com/@PeterYan3/Hangman?v=1
+</p>
+
+<h1></h1>
