@@ -4,7 +4,7 @@
 
 <p id="description">guess which turtle will win the race? Pick the colors out of purple, blue, green, yellow, orange, and red! rephrase
 </p>
-![Screen Recording - Oct 19, 2023](https://github.com/Peterloveprogramming/PythonProjects/assets/131538732/6157879e-5343-421a-a027-8437994877a7)
+![Hello](https://github.com/Peterloveprogramming/PythonProjects/assets/131538732/de95d605-6b75-4516-817e-86e4a9d5502d)
 <h1></h1>
 <h2>Project - Password Generator  </h2>
 
