@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Python Projects</h1>
 
-<h2>Project - Turtle Racing Game</h2>
+<h2>Project - Turtle Racing</h2>
 
 <p id="description">guess which turtle will win the race? Pick the colors out of purple, blue, green, yellow, orange, and red! rephrase
 </p>
